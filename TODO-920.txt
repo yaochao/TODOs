@@ -1,0 +1,10 @@
+TODO-920
+1. 算法
+2. django/flask
+3. python核心编程
+4. python底层
+5. scrapy源码与实现
+6. JavaScript与Vue.js, node.js
+7. MySQL优化技巧，redis和MongoDB使用技巧。
+8. HTTP协议，核心网络编程
+9. Linux部署
